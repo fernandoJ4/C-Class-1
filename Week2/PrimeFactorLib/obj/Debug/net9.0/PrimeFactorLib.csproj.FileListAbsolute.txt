@@ -1,0 +1,11 @@
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\obj\Debug\net9.0\PrimeFactorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\obj\Debug\net9.0\PrimeFactorLib.AssemblyInfoInputs.cache
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\obj\Debug\net9.0\PrimeFactorLib.AssemblyInfo.cs
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\obj\Debug\net9.0\PrimeFactorLib.csproj.CoreCompileInputs.cache
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\bin\Debug\net9.0\PrimeFactorLib.deps.json
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\bin\Debug\net9.0\PrimeFactorLib.dll
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\bin\Debug\net9.0\PrimeFactorLib.pdb
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\obj\Debug\net9.0\PrimeFactorLib.dll
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\obj\Debug\net9.0\refint\PrimeFactorLib.dll
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\obj\Debug\net9.0\PrimeFactorLib.pdb
+C:\Users\fordo\OneDrive\Documents\C #\Week2\PrimeFactorLib\obj\Debug\net9.0\ref\PrimeFactorLib.dll
