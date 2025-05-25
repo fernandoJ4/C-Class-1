@@ -1,0 +1,18 @@
+C:\Users\fordo\OneDrive\Documents\C #\Exercise03\obj\Debug\net9.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fordo\OneDrive\Documents\C #\Exercise03\obj\Debug\net9.0\Exercise03.AssemblyInfoInputs.cache
+C:\Users\fordo\OneDrive\Documents\C #\Exercise03\obj\Debug\net9.0\Exercise03.AssemblyInfo.cs
+C:\Users\fordo\OneDrive\Documents\C #\Exercise03\obj\Debug\net9.0\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\obj\Debug\net9.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\bin\Debug\net9.0\Exercise03.exe
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\bin\Debug\net9.0\Exercise03.deps.json
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\bin\Debug\net9.0\Exercise03.runtimeconfig.json
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\bin\Debug\net9.0\Exercise03.dll
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\bin\Debug\net9.0\Exercise03.pdb
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\obj\Debug\net9.0\Exercise03.AssemblyInfoInputs.cache
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\obj\Debug\net9.0\Exercise03.AssemblyInfo.cs
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\obj\Debug\net9.0\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\obj\Debug\net9.0\Exercise03.dll
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\obj\Debug\net9.0\refint\Exercise03.dll
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\obj\Debug\net9.0\Exercise03.pdb
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\obj\Debug\net9.0\Exercise03.genruntimeconfig.cache
+C:\Users\fordo\OneDrive\Documents\Csharp\Exercise03\obj\Debug\net9.0\ref\Exercise03.dll
