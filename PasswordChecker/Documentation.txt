@@ -1,0 +1,30 @@
+===============================
+C# Project: Password Strength Checker
+
+Author: Fernando Ordonez   
+Language: C#   
+===============================
+Purpose:
+===============================
+This program checks whether a given password is strong based on defined criteria such as length, use of uppercase and lowercase letters, numbers, and special characters. It helps users improve password security.
+
+===============================
+Strength Rules:
+===============================
+- At least 8 characters
+- At least one uppercase letter
+- At least one lowercase letter
+- At least one digit
+===============================
+Sample Input (Test Data):
+===============================
+Password: P@ssword123  
+Password: password  
+Password: 12345678  
+
+===============================
+Sample Output:
+===============================
+"P@ssword123" is a Strong password.  
+"password" is Weak - missing uppercase, digits, and special characters.  
+"12345678" is Weak - missing letters and special characters.
